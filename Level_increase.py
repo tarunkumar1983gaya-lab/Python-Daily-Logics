@@ -4,6 +4,7 @@ if points > 100:
  complete = ("yes")
 else:
  complete = ("no")
+
 # Calculating level and displaying message
 level = 0
 completed = complete
