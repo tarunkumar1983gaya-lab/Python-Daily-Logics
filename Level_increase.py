@@ -1,4 +1,4 @@
-# Taking the game pount from playre.
+# Taking the game point from playre.
 points = int(input("Enter your game points: "))
 if points > 100:
  complete = ("yes")
